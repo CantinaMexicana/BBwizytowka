@@ -1113,6 +1113,10 @@ section.lazy-placeholder:after {
 .cid-rWJRjJ3EMm {
   background-image: url("../../../assets/images/753be2a854a258259fc0566a0e4284d7.jpg-1200x630.jpg");
 }
+.cid-rWJRjJ3EMm .mbr-text,
+.cid-rWJRjJ3EMm .mbr-section-btn {
+  color: #ff3366;
+}
 .cid-rWJRoypqDz {
   padding-top: 15px;
   padding-bottom: 0px;
